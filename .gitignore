@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Reports output (keep folder, ignore contents)
+reports/*
+!reports/
+
+# Example data: ignore all .rtf except one demo file
+*.rtf
+!lfc26attributes.rtf
+
+# Football Manager view files are small – keep them
+# (comment these out if you decide not to share them)
+# *.fmf
+
+# Python artefacts
+__pycache__/
+*.pyc
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
