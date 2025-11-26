@@ -41,3 +41,20 @@ Weightings of attributes per position can be reordered on the .py file source co
   2. Set up Python (see below)
   3. Drag lfc26attributes.rtf onto Run-PosCalc.cmd
   4. Open the generated HTML report in the reports/ folder
+
+### How to Install Python (if you don't already have it)
+
+This tool requires **Python 3**.
+
+1. Go to the official Python website: https://www.python.org/downloads/
+2. Download the latest **Python 3.x for Windows** (or Mac) installer.
+3. Run the installer and on the first screen make sure you tick:
+
+   ✅ **Add python.exe to PATH**
+
+4. Click **Install Now** and wait for it to finish.
+5. Open **Command Prompt** and check it works:
+
+   ```bash
+   python --version
+
