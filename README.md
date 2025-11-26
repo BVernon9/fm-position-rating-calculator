@@ -12,7 +12,9 @@ The workflow is:
    - A `.csv` file with raw ratings
    - An `.html` report in the `reports/` folder
 
-This is mainly for a fun test and squad planning.
+This is mainly for a fun test and to speed up squad planning.
+In theory should be able to be used on any Football Manager game where the attributes are the same and custom views are available.
+Weightings of attributes per position can be reordered on the .py file source code.
 
 ---
 
